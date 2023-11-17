@@ -1,0 +1,32 @@
+VERSION 17-11-2023 17:49:17
+FIG #C:\Users\swati\OneDrive\Desktop\inverterwithoutSizing.MSK
+BB(37,-8,109,46)
+SIMU #5.00
+REC(37,30,24,16,NW)
+REC(50,36,5,4,DP)
+REC(43,36,5,4,DP)
+REC(50,-4,5,4,DN)
+REC(43,-4,5,4,DN)
+REC(52,37,2,2,CO)
+REC(44,37,2,2,CO)
+REC(52,-3,2,2,CO)
+REC(44,-3,2,2,CO)
+REC(48,-7,2,50,PO)
+REC(43,-8,4,8,ME)
+REC(51,-4,4,44,ME)
+REC(55,15,22,5,ME)
+REC(43,36,4,8,ME)
+REC(48,36,2,4,DP)
+REC(48,-4,2,4,DN)
+RLCC 69 15 74 15 1 #0.01
+TITLE 48 12  #clock1
+$c 1000 0 0.2250 0.2500 0.4750 0.5000 
+TITLE 62 17  #s2
+$v 1000 0 
+TITLE 44 -7  #Vss
+$0 1000 0 
+TITLE 40 39  #Vdd
+$1 1000 0 
+TITLE 45 43  #Vdd
+$1 1000 0 
+FFIG C:\Users\swati\OneDrive\Desktop\inverterwithoutSizing.MSK
